@@ -87,6 +87,8 @@ We have two conflicts in the lists: between A-5 and B-5, and between A-6 and B-6
 Just the same, I would not approve of all the reasons B-1 to B-6. I agree with the first two reasons under the condition that the apple problem and others are on the test after the pupils learn B-1 and B-2 properly in class. The condition seems to be met on the grounds of lesson plans developed by teachers as well as textbooks which are well-organized. A book of educational evaluation [Tanaka 2008] indicates a need for the discrimination between so-called a "per" quantity and a multiple.
 It is likely that skeptics merge B-3 and B-4 to decrease the number of reasons for incorrectness. But those interpretations seem attractive separately while there are practical examples of instruction using the respective reasons.
 As far as B-5 is concerned, it is necessary to compare "5 apples x 3 dishes" with "3 apples x 5 dishes", I suppose. Vergnaud [Vergnaud 1983] pointed out that it is not clear why "4 cakes x 15 cents" yields cents and not cakes, just before explaining multiplicative structures using 2 x 2 tables, and I also suppose that his problem consciousness is directed to Japanese society where the quantities of goods are often specified as "5 pieces x 3 packs" or "1.5 kg x 4 boxes". By the way I have seen "3 x 80g" and "75g x 5" outside Japan, and we can find the heuristic rule from here that neither a physical unit nor a counter is attached to the multiplier.
+[f:id:takehikoMultiply:20121219052719j:image]
+[f:id:takehikoMultiply:20120829182059j:image]
 Finally, I would like to comment on B-6; culture should include the history in a country. I hope that children understand various ways of describing math expressions which differ from country to country and from age to age, and that they offer an answer to the problem at hand.
 
 ><a name="3">
@@ -130,7 +132,10 @@ Those who criticize the order-of-multiplication insist that the form "multiplica
 
 Through a range of publications from Japan and abroad, we can learn a lot about multiplication classifications. It is useful to be aware of the separation between "multiple" and "product". In a "multiple" multiplication, the multiplicand and the result are the same in quantity while the multiplier is interpreted as a ratio or a magnification factor; even if the multiplier is some kind of a quantity, it is dimensionless in computation. On the other hand, a "product" multiplication includes the situation where two quantities produce another quantity in a multiplicative way, as well as pure numbers' multiplication. A detailed classification table can be read in [Greer 1992] although it employs the bisection. If you would like to trisect the meaning of multiplication, you may know "scholar relationship", "proportional function", and "multiple proportion" presented by Tsuyoshi Mori [Mori 1973] and Vergnaud [Vergnaud 1983]. For one more push, "repeated addition" is the fourth meaning as set forth in [Tanaka 2008].
 I would like to tell you how to identify the multiplication sort readily. Assume that "a x b = p" represents a situation. If a, b, and p are the same in quantity or p is not similar to a or b, then it is a "product" multiplication; a and b are the factors but it is meaningless to distinguish the multiplicand and the multiplier between them. By contrast, if p is the same in quantity as either one of the two, then it is a "multiple" multiplication; the similar one of a and b is the multiplicand and the other is the multiplier. "4 cakes x 15 cents" is a sort of "multiple" while calculating area or volume by means of length x width or area of base x height is associated with "product".
-Both "3 x 4" and "4 x 3" are accepted in the 3 x 4 rectangular arrangement of filled circles that is described in Elementary School Teaching Guide [Isoda 2010], because the situation belongs to "product" or Cartesian product. In the meantime, word problems in dispute including the apple problem are closely related to "multiple". When reading Toyama's article [Toyama 1972] in consideration of the bisection, we can understand that the notions of "multiple" and "product" were unspecific in it. He delivered his perception change of multiplicative models and instruction methods in 1979 [Toyama 1979], half a year before he died.
+Let us share an example that demonstrates the combination of "multiple" and "product". When 10-cent coins are arranged in the following 3 x 4 rectangular shape, how much money do you have altogether?
+[f:id:takehikom:20131119055110j:image]
+Lengthwise counting leads to 40 cents while you can find 30 cents in the cross direction. But we must not compute the amount by means of the product of the two sums, i.e., 30 x 40 = 1200. In reality we have just 120 cents. 12 coins are on the table, and the expression for the situation is 3 x 4 = 12 (you may write 4 x 3 = 12). Then the amount can be correctly calculated by 10 x 12 = 120. These two multiplicative expressions can be unified to the new one namely 10 x 3 x 4 = 120. When the left-hand side is worked out as (10 x 3) x 4 = 30 x 4 = 120, this computation relates the fact that there are 4 columns of 30 cents each. In addition, we are able to find the associative law of multiplication.
+If all the 10-cent coins are replaced with marbles, then the figure is listed on Elementary School Teaching Guide. Both "3 x 4" and "4 x 3" are accepted there because the situation belongs to "product" or Cartesian product. In the meantime, word problems in dispute including the apple problem are closely related to "multiple". When reading Toyama's article [Toyama 1972] in consideration of the bisection, we can understand that the notions of "multiple" and "product" were unspecific in it. He delivered his perception change of multiplicative models and instruction methods in 1979 [Toyama 1979], half a year before he died.
 
 ><a name="4">
 </a><
@@ -162,7 +167,7 @@ Future works include another kind of arrangement of literature which supports th
 </a><
 ** References
 
-- [Isoda 2010] Isoda, M. (Ed.): Elementary School Teaching Guide for the Japanese Course of Study: Mathematics (Grade 1-6), 2010. [http://www.globaledresources.com/products/assets/Teaching%20Guide%20Elementary.pdf]
+- [Isoda 2010] Isoda, M. (Ed.): Elementary School Teaching Guide for the Japanese Course of Study: Mathematics (Grade 1-6), 2010. [http://www.globaledresources.com/products/assets/Teaching%20Guide%20Elementary.pdf] <!-- [文部科学省2008] 文部科学省: 小学校学習指導要領解説 算数編, 東洋館出版社 (2008). [isbn:9784491023731] -->
 - [Takahashi 2011] 高橋誠: かけ算には順序があるのか, 岩波科学ライブラリー180, 岩波書 店 (2011). [isbn:9784000295802]
 - [Schwartz 1988] Schwartz, J. L.: "Intensive quality and referent transforming arithmetic operations", Number concepts and operations in the middle grades, National Council of Teachers of Mathematics. pp.41-52 (1988). [isbn:0873532651]
 - [Tsukubafuzoku 2003] 筑波大学附属小学校算数部 (編集): 板書で見る全単元・全時間の授業の すべて 小学校算数2年下, 東洋館出版社 (2003). [isbn:9784491019376]<!--pp.46-47-->
@@ -221,6 +226,7 @@ Future works include another kind of arrangement of literature which supports th
 - [URL 16]<!--u:東京書籍教科書英訳本-->[http://shop.tokyo-shoseki.co.jp/shopap/feature/theme0053/]
 - [URL 17]<!--u:啓林館教科書英訳本-->[http://keirin.shop29.makeshop.jp/shopbrand/003/O/]
 - [URL 18]<!--u:馬場2013-->[http://www.shinko-keirin.co.jp/keirinkan/pr/risukeirin/pdf/no001_11.pdf]
+- [URL 19]<!--u:朝日新聞2011--> [http://www.asahi.com/edu/student/teacher/TKY201101160133.html]
 
 （リリース：2013-11-15 晩<!--Fri Nov 15 21:57:45 JST 2013-->）
-（最終更新：2013-11-18 朝<!--Mon Nov 18 06:13:25 JST 2013-->）
+（最終更新：2013-11-19 朝<!--Tue Nov 19 06:04:06 JST 2013-->）
