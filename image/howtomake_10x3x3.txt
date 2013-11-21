@@ -1,0 +1,8 @@
+ruby -e "print %w(e291a9e291a9e291a9e291a90ae291a9e291a9e291a9e291a90ae291a9e291a9e291a9e291a9).pack('H*')" > 10x3x4.txt
+
+<Cygwin> FONT=/cygdrive/c/Windows/Fonts/msgothic.ttc
+<Ubuntu 13.10> FONT=/usr/share/fonts/truetype/fonts-japanese-gothic.ttf
+
+convert -background gray94 -fill chocolate -font $FONT -pointsize 40 label:@10x3x4.txt -quality 90 10x3x4.jpg
+
+<See also: http://d.hatena.ne.jp/takehikom/20110717/1310849702>
