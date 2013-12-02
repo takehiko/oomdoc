@@ -2,16 +2,22 @@
 
 - [http://d.hatena.ne.jp/takehikom/20131116/1384560000:title=かけ算の順序論争について（日本語版）]
 - [http://d.hatena.ne.jp/takehikom/20131117/1384646400:title=Towards Order-of-Multiplication Dispute (English Version)]
+- [http://d.hatena.ne.jp/takehikom/20131203/1385996400:title=곱셈 순서 논쟁에 대하여 (한국어판)]
 - [https://github.com/takehiko/oomdoc:title=Documents and resources of "order-of-multiplication" dispute - GitHub]
 
 ** 改訂履歴
 
+&#44273;
+
+- 2013-12-03 早朝<!--Tue Dec 03 04:19:43 JST 2013-->
+-- 韓国語版をリリースしました．最初の節のみ載せています((ハングルの1文字が，はてなダイアリーの仕様により数値参照に変わってしまい（例えば「곱」は「&amp;#44273;」），字数が多くなってしまうためです．))．全文（PDFファイル）へのリンクもつけました．
+-- 日本語版について，いくつか書き換えました．
+====
 - 2013-11-26 早朝<!--Tue Nov 26 04:06:54 JST 2013-->
 -- 日本語版・英語版とも，以下の修正を行いました．
 --- 文献[Isoda 2007]を追加しました．
 --- 棺桶の「×2」の説明を少し書き換えました（[http://d.hatena.ne.jp/takehikoMultiply/20131126/1385405372:title]）．
 --- [Link 20J]のURLを修正しました．
-====
 - 2013-11-22 朝<!--Fri Nov 22 06:21:38 JST 2013-->
 -- 日本語版・英語版とも，以下の修正を行いました．
 --- 「[URL 番号]」を「[Link 番号ほか]」に変更し，番号で並び替えました．「ほか」は，日本語(J)・英語(E)・韓国語(K)の区別です．
