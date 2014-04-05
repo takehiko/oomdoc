@@ -236,4 +236,4 @@ Future works include another kind of arrangement of literature which supports th
 - [Link 21J]<!--u:全国学力テスト2013--> [http://www.nier.go.jp/13chousa/13chousa.htm]
 - [Link 22E]<!--u:CommonCore--> [http://www.corestandards.org/assets/CCSSI_Math%20Standards.pdf]
 
-(Last updated: Wed Nov 20 05:57:46 JST 2013; Released: Tue Nov 26 04:06:54 JST 2013)
+(Last updated: Sat Apr 05 21:12:41 JST 2014; Released: Fri Nov 15 21:57:45 JST 2013)
